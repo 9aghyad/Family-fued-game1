@@ -1,4 +1,4 @@
-# Family Feud Realtime V7
+# Family Feud Realtime V1
 
 ## ما تم تغييره
 - إزالة مؤقت الجولة بالكامل من الخادم والواجهات.
